@@ -6,7 +6,7 @@ Lately, I've been spending time on TryHackMe labs, studying for the AWS Solution
 
 **Fun facts about me:**
 - I love learning languages 🇩🇿🇫🇷🇺🇸🇩🇪
-- I enjoy going to the gym 💪
+- I enjoy going to the gym 💪, and cycling 🚴
 - I like reading books outside of IT, especially psychology 🧠
 - I'm into criminal 🫆 and detective 🕵️‍♀️ series, and I enjoy solving challenging puzzles 🔍
 
