@@ -12,6 +12,11 @@ Lately, I've been spending time on TryHackMe labs, studying for the AWS Solution
 
 I have a background in graphic design, with strong experience using the Adobe Creative Suite, Figma, and Google Workspace. I earned the Google UX Design Professional Certificate in 2022. I’ve worked with a few clients on logo design, brand identity, and website design, and while I’m no longer doing it professionally, I still enjoy expressing my creative side through drawing and art in my free time. You can find some of my work on my [Behance](https://www.behance.net/zidane0souhila)
 
+
+# 💻 Projects & Labs
+
+👉 [Metasploit](https://github.com/zidane0souhila/cybersecurity-101-tryhackme/tree/main/metasploit)
+
 <!--
 **zidane0souhila/zidane0souhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
