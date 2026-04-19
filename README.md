@@ -15,7 +15,13 @@ I have a background in graphic design, with strong experience using the Adobe Cr
 
 # 💻 Projects & Labs
 
-👉 [Metasploit](https://github.com/zidane0souhila/cybersecurity-101-tryhackme/tree/main/metasploit)
+## <img src="https://github.com/zidane0souhila/cybersecurity-101-tryhackme/blob/main/metasploit/metasploit-logo.svg" width="25"/> Metasploit
+  
+👉 [Using Metasploit for scanning, vulnerability assessment and exploitation.](https://github.com/zidane0souhila/cybersecurity-101-tryhackme/blob/main/metasploit/001.md)
+
+👉 [Deploy & hack into a Windows machine, leveraging common misconfigurations issues.](https://github.com/zidane0souhila/cybersecurity-101-tryhackme/blob/main/metasploit/002.md)
+
+
 
 <!--
 **zidane0souhila/zidane0souhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
